@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 from flask import Flask, request, jsonify
 
 from flask_sqlalchemy import SQLAlchemy
